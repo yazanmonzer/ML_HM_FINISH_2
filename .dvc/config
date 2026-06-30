@@ -1,0 +1,4 @@
+[core]
+    remote = local_remote
+['remote "local_remote"']
+    url = D:\ML_HM_FINISH_2_DVC_REMOTE
